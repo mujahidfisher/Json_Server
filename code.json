@@ -1,0 +1,24 @@
+{
+    "salad" : [
+        {
+            "fruit": "Apple",
+            "size": "mediam",
+            "color": "Red"
+        },
+        {
+            "fruit": "Banana",
+            "size": "Large",
+            "color": "yellow"
+        },{
+            "fruit": "Grape",
+            "size": "small",
+            "color": "green"
+        },{
+            "fruit": "Pear",
+            "size": "Large",
+            "color": "greenish"
+        }
+    ] 
+}
+
+
