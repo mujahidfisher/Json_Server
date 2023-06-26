@@ -1,5 +1,4 @@
-{
-    "anime-powers" : [
+    [
         {
             "img": "https://i.postimg.cc/1z1XmG5C/Hinh-nen-Saitama.jpg",
             "characters name": "Saitama",
@@ -22,6 +21,6 @@
             "ultimate": "8 Psychic Energy Absorption"
         }
     ] 
-}
+
 
 
