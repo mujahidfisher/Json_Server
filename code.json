@@ -1,22 +1,28 @@
 {
-    "salad" : [
+    "anime-powers" : [
         {
-            "fruit": "Apple",
-            "size": "mediam",
-            "color": "Red"
+            "img": "",
+            "anime": "",
+            "power level": "",
+            "ultimate": ""
         },
         {
-            "fruit": "Banana",
-            "size": "Large",
-            "color": "yellow"
-        },{
-            "fruit": "Grape",
-            "size": "small",
-            "color": "green"
-        },{
-            "fruit": "Pear",
-            "size": "Large",
-            "color": "greenish"
+            "img": "",
+            "anime": "",
+            "power level": "",
+            "ultimate": ""
+        },
+        {
+            "img": "",
+            "anime": "",
+            "power level": "",
+            "ultimate": ""
+        },
+        {
+            "img": "",
+            "anime": "",
+            "power level": "",
+            "ultimate": ""
         }
     ] 
 }
