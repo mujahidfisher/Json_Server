@@ -1,28 +1,25 @@
 {
     "anime-powers" : [
         {
-            "img": "",
-            "anime": "",
-            "power level": "",
-            "ultimate": ""
+            "img": "https://i.postimg.cc/1z1XmG5C/Hinh-nen-Saitama.jpg",
+            "characters name": "Saitama",
+            "anime": "One-Punch Man",
+            "power level": "375 000 000 mp",
+            "ultimate": "One-Punch"
         },
         {
-            "img": "",
-            "anime": "",
-            "power level": "",
-            "ultimate": ""
+            "img": "https://i.postimg.cc/xCXn2qVj/Kokichi-Muta.png",
+            "characters name": "Kokichi Muta",
+            "anime": "Jujutsu Kaisen",
+            "power level": "52 000 000 mp",
+            "ultimate": "Puppet Manipulation"
         },
         {
-            "img": "",
-            "anime": "",
-            "power level": "",
-            "ultimate": ""
-        },
-        {
-            "img": "",
-            "anime": "",
-            "power level": "",
-            "ultimate": ""
+            "img": "https://i.postimg.cc/ryYgssXX/10602035-428351f0-7f59-41ed-be0c-c25d704a2995.png",
+            "characters name": "Shigeo Kageyama            ",
+            "anime": "Mob Psycho 100",
+            "power level": "250 000 000 mp",
+            "ultimate": "8 Psychic Energy Absorption"
         }
     ] 
 }
